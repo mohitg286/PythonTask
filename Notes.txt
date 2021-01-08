@@ -85,3 +85,16 @@ Python has two primitive loop commands:
 while loops
 for loops
 
+
+I. Python Sets
+
+Sets are used to store multiple items in a single variable.
+
+J.Python Datetime
+A date in Python is not a data type of its own, but we can import a module named datetime to work with dates as date objects.
+
+K.Python Casting
+int() - constructs an integer number from an integer literal, a float literal (by rounding down to the previous whole number), or a string literal (providing the string represents a whole number)
+float() - constructs a float number from an integer literal, a float literal or a string literal (providing the string represents a float or an integer)
+str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+
