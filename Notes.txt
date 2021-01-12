@@ -105,3 +105,22 @@ Almost everything in Python is an object, with its properties and methods.
 
 A Class is like an object constructor, or a "blueprint" for creating objects.
 
+M.Python Math
+Python has a set of built-in math functions, including an extensive math module, that allows you to perform mathematical tasks on numbers.
+min() and max() functions can be used to find the lowest or highest value
+The pow(x, y) function returns the value of x to the power of y (xy).
+
+N.Python Scope: A variable is only available from inside the region it is created. This is called scope.
+
+O.Operator: Operators are the constructs which can manipulate the value of operands.
+Python language supports the following types of operators.
+
+Arithmetic Operators
+Comparison (Relational) Operators
+Assignment Operators
+Logical Operators
+Bitwise Operators
+Membership Operators
+Identity Operators
+
+
