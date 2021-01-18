@@ -123,4 +123,19 @@ Bitwise Operators
 Membership Operators
 Identity Operators
 
+P.Funcitons:A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function.
 
+Calling a Function:  To call a function, use the function name followed by parenthesis
+Eg.
+def my_function():
+  print("Hello from a function")
+
+my_function()
+
+p.1 Arguments: Information can be passed into functions as arguments.
+
+Arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma.
+
+Q. Python Inheritance
+Inheritance allows us to define a class that inherits all the methods and properties from another class.
+Parent class is the class being inherited from, also called base class.
