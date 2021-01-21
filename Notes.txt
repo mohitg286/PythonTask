@@ -188,3 +188,12 @@ Else
 You can use the else keyword to define a block of code to be executed if no errors were raised
 Finally
 The finally block, if specified, will be executed regardless if the try block raises an error or not.
+
+S.Python User Input: Python allows for user input.
+
+That means we are able to ask the user for input.
+
+The method is a bit different in Python 3.6 than Python 2.7.
+
+Python 3.6 uses the input() method.
+Python 2.7 uses the raw_input() method.
