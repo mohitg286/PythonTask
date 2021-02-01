@@ -216,3 +216,10 @@ A lambda function can take any number of arguments, but can only have one expres
 W. Python packages; A package contains all the files you need for a module.
 
 Modules are Python code libraries you can include in your project.
+
+x. User Input
+Python allows for user input.
+That means we are able to ask the user for input.
+The method is a bit different in Python 3.6 than Python 2.7.
+Python 3.6 uses the input() method.
+Python 2.7 uses the raw_input() method.
