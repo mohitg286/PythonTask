@@ -212,3 +212,7 @@ To control such values, add placeholders (curly brackets {}) in the text, and ru
 
 V.Python Lambda; A lambda function is a small anonymous function.
 A lambda function can take any number of arguments, but can only have one expression.  Expression: lambda arguments : expression
+
+W. Python packages; A package contains all the files you need for a module.
+
+Modules are Python code libraries you can include in your project.
